@@ -1,0 +1,8 @@
+baseURL = "https://ammanullah.github.io/hugo-narrow/"
+languageCode = "en-us"
+title = "My Hugo Site"
+theme = "hugo-narrow"
+
+# Optional
+[params]
+  description = "My Hugo Narrow blog"
